@@ -1,0 +1,25 @@
+body {
+    background-color: DarkCyan;
+}
+
+h1
+{
+ text-align: center;
+}
+form
+{
+ text-align: center;
+}
+
+button {
+    
+    background-color: black;
+    color: white;
+    border-radius: 150px;
+    border-bottom-style: dashed;
+    margin-bottom: 5px;
+    box-sizing: border-box;
+    font-size: 23px;
+    margin-left: 1%;
+    margin-right: -2%;
+}
